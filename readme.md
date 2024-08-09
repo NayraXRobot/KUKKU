@@ -1,4 +1,4 @@
-<img src="https://telegra.ph/file/c0e014ff34f34d1056627.png" align="right" width="200" height="200"/>
+<img src="https://telegra.ph/file/09773b9c5cfca4f63b31d.jpg" align="right" width="200" height="200"/>
 
 # Yukki Music Bot <img src="https://img.shields.io/github/v/release/TeamYukki/YukkiMusicBot?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
 
@@ -35,13 +35,13 @@
 Reach out to the maintainer at one of the following places:
 
 - [GitHub Issues](https://github.com/TheTeamVivek/YukkiMusic/issues/new?assignees=&labels=question&template=SUPPORT_QUESTION.md&title=support%3A+)
-- Contact  [Telegram profile](https://t.me/vivekkumar07089)
-- [Telegram Support](https://t.me/TheTeamVk)
+- Contact  [Telegram profile](https://t.me/SHAYARAKHAWAB)
+- [Telegram Support](https://t.me/AboutshayarAkhawab)
 
 If you want to say **thank you** or/and support active development of YukkiMusicBot:
 
-- Add a [GitHub Star](https://github.com/TeamYukki/YukkiMusicBot) to the project.
-- Fork the [Repo](https://github.com/TheTeamVivek/YukkiMusic) :)
+- Add a [GitHub Star](https://github.com/NayraXRobot/MUSIC2.0t) to the project.
+- Fork the [Repo](https://github.com/NayraXRobot/MUSIC2.0) :)
 - Write interesting articles about the project on [Dev.to](https://dev.to/), [Medium](https://medium.com/) or your personal blog.
 
 Together, we can make **YukkiMusic** better!
