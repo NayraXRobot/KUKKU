@@ -36,7 +36,7 @@
       },
       "MONGO_DB_URI": {
         "description": "Get a mongodb url from https://cloud.mongodb.com . You can leave it blank if you want , bot will use Yukki's database for you.",
-        "value": "mongodb+srv://oliva:oliva123@cluster0.6cohqfv.mongodb.net/?retryWrites=true&w=majorit",
+        "value": "mongodb+srv://oliva:oliva123@cluster0.6cohqfv.mongodb.net/?retryWrites=true&w=majority",
         "required": true
       },
       "OWNER_ID": {
