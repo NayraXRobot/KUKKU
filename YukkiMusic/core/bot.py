@@ -19,7 +19,7 @@ from ..logging import LOGGER
 
 class YukkiBot(Client):
     def __init__(self):
-        LOGGER(__name__).info(f"Starting Bot")
+        LOGGER(__name__).info(f"𝙉𝙖𝙮𝙧𝙖 Starting Bot")
         super().__init__(
             "YukkiMusic",
             api_id=config.API_ID,
