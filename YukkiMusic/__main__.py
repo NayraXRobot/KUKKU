@@ -59,10 +59,10 @@ async def init():
     await userbot.start()
     await Yukki.start()
     await Yukki.decorators()
-    LOGGER("YukkiMusic").info("YukkiMusic Started Successfully")
+    LOGGER("YukkiMusic").info("𝙉𝙖𝙮𝙧𝙖 Started Successfully")
     await idle()
 
 
 if __name__ == "__main__":
     asyncio.get_event_loop_policy().get_event_loop().run_until_complete(init())
-    LOGGER("YukkiMusic").info("Stopping YukkiMusic! GoodBye")
+    LOGGER("YukkiMusic").info("Stopping 𝙉𝙖𝙮𝙧𝙖! GoodBye")
